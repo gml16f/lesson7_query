@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabriela Llanes
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the jQuery framework, which
+is a JavaScript library
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gml16f.github.io/lesson7_query/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To access elements using jQuery syntax
+2. Use built-in jQuery syntax
+3. The following steps in the lesson will give you additional practice using jQuery and Document Object
+Model (DOM) traversal statements.
 
